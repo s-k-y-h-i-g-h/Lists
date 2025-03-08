@@ -29,4 +29,4 @@ Lists of things you should know about.
 | ---- | ----------- | ---- | ----- | ---- |
 | [Claude Code](https://ai-claude.net/code/) | Command line agent which can edit and manage projects and execute commands | Windows, Linux, macOS | No | $5-10pd/$100ph |
 | [warp](https://www.warp.dev/) | Standalone agent which can execute commands | Windows, Linux, macOS | No | Free/$15pupm/$40pupm/custom |
-| [codel](https://github.com/semanser/codel) | Standalone agent which can execute commands | Windows, Linux, macOS, Android, iOS | Yes | Free |
+| [codel](https://github.com/semanser/codel) | Standalone agent which can execute commands | Web | Yes | Free |
