@@ -23,9 +23,10 @@ Lists of things you should know about.
 | [JetBrains AI](https://www.jetbrains.com/ai/) | Extension for JetBrains IDEs and editors (IntelliJ IDEA, PyCharm, PhpStorm, ReSharper, Fleet) | Windows, Linux, macOS | No | $8.33pm/$30pm/$16.67pupm/$30pupm |
 | [windsurf](https://codeium.com/windsurf) | Standalone agent which can edit code and run commands and can also execute and debug programs in it's environment | Windows, Linux, macOS | No | Free/$15pm/$60pm |
 
-#### Shell
+#### Terminal
 
 | Name | Description | Platforms | OSS? | Price |
 | ---- | ----------- | ---- | ----- | ---- |
 | [Claude Code](https://ai-claude.net/code/) | Command line agent which can edit and manage projects and execute commands | Windows, Linux, macOS | No | $5-10pd/$100ph |
 | [warp](https://www.warp.dev/) | Standalone agent which can execute commands | Windows, Linux, macOS | No | Free/$15pupm/$40pupm/custom |
+| [codel](https://github.com/semanser/codel) | Standalone agent which can execute commands | Windows, Linux, macOS, Android, iOS | Yes | Free |
