@@ -8,6 +8,12 @@ Lists of things you should know about.
 - **pupm** per user per month
 
 # Software
+## Lessons
+### AI
+| Name | Description | Platforms | OSS? | Price |
+| ---- | ----------- | ---- | ----- | ---- |
+| [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main) | Includes lessons on Azure OpenAI Service, GitHub Marketplace Model Catalog and OpenAI API and uses Python and TypeScript | Yes | Free |
+
 ## AI
 ### Business
 #### Workflow
