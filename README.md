@@ -10,6 +10,11 @@ Lists of things you should know about.
 # Software
 ## AI
 ### Business
+#### Workflow
+| Name | Description | Platforms | OSS? | Price |
+| ---- | ----------- | ---- | ----- | ---- |
+| [n8n](https://n8n.io/) | Has lots of integrations (e.g. Jira, Slack, GitHub, LLMs), flow controls, a visual designer and JS/Python scripting, can be self-hosted | Windows, Linux, macOS and a web frontend | Yes | free/£20pm/£50pm/custom |
+
 ### Software Development
 #### Editor/IDE
 | Name | Description | Platforms | OSS? | Price |
