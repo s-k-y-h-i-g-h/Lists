@@ -15,6 +15,11 @@ Lists of things you should know about.
 | [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main) | Includes lessons on Azure OpenAI Service, GitHub Marketplace Model Catalog and OpenAI API and uses Python and TypeScript | Yes | Free |
 
 ## AI
+### General Purpose
+| Name | Description | Platforms | OSS? | Price |
+| ---- | ----------- | ---- | ----- | ---- |
+| [Manus](https://manus.im/) | Advanced general purpose AI agent | TBA | TBA | TBA |
+
 ### Business
 #### Workflow
 | Name | Description | Platforms | OSS? | Price |
