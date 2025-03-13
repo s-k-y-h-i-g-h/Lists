@@ -15,7 +15,7 @@ Lists of things you should know about.
 | [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main) | Includes lessons on Azure OpenAI Service, GitHub Marketplace Model Catalog and OpenAI API and uses Python and TypeScript | Yes | Free |
 
 ## AI
-### General Purpose
+### Desktop/Web Agents
 | Name | Description | Platforms | OSS? | Price |
 | ---- | ----------- | ---- | ----- | ---- |
 | [Manus](https://manus.im/) | Advanced general purpose AI agent | TBA | TBA | TBA |
@@ -25,6 +25,11 @@ Lists of things you should know about.
 | Name | Description | Platforms | OSS? | Price |
 | ---- | ----------- | ---- | ----- | ---- |
 | [n8n](https://n8n.io/) | Has lots of integrations (e.g. Discord, Jira, Slack, GitHub, LLMs), flow controls, a visual designer and JS/Python scripting, can be self-hosted | Windows, Linux, macOS and a web frontend | Yes | Free/£20pm/£50pm/custom |
+
+### Design
+| Name | Description | Platforms | OSS? | Price |
+| ---- | ----------- | ---- | ----- | ---- |
+| [Figma](https://www.figma.com/) | Helps create designs for products using AI and has collaborative editing | Web, Windows, macOS, Android, iOS | No | Free/$20pupm/$45pupm/$75pupm |
 
 ### Software Development
 #### Editor/IDE
