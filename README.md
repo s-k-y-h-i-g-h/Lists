@@ -8,11 +8,18 @@ Lists of things you should know about.
 - **pupm** per user per month
 
 # Software
+# Desktop
+| Name | Description | Platforms | OSS? | Price |
+| ---- | ----------- | ---- | ----- | ---- |
+| [Files](https://github.com/files-community/Files) | A better Windows Explorer with the same style as normal | Windows | Yes | Free/£7.49 |
+| [MS PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a set of utilities designed for power users to enhance productivity and customize their Windows experience | Windows | Yes | Free |
+| [MS Terminal](https://github.com/microsoft/Terminal) | A modern, feature-rich terminal application for command-line users, offering support for tabs, customization, and seamless integration with command-line tools and shells | Windows | Yes | Free |
+
 ## Lessons
 ### AI
 | Name | Description | Platforms | OSS? | Price |
 | ---- | ----------- | ---- | ----- | ---- |
-| [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main) | Includes lessons on Azure OpenAI Service, GitHub Marketplace Model Catalog and OpenAI API and uses Python and TypeScript | Yes | Free |
+| [MS Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main) | Includes lessons on Azure OpenAI Service, GitHub Marketplace Model Catalog and OpenAI API and uses Python and TypeScript | Windows, Linux, macOS | Yes | Free |
 
 ## AI
 ### Desktop/Web Agents
